@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {}
+    "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {
+    "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomation\\Common\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
