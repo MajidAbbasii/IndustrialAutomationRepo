@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqFwc6+EaWKOCbjhAXTqtIvUHEB8A+mp0VjPSNQMvcGEtWQMiKKLJ4s9vkRppUyWz7aJdjFE90WhjKZZvnYzaw==",
+  "dgSpecHash": "kJhOotIPz9ZAKFIKqbX0QxJKx9kelNWp7mkbx01nqjIl383rsL+CyPD3mJgx9fsctW2etsjVhdJc7zQVmVtOsg==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

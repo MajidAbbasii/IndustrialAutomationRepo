@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\IndustrialAutomationRepo\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj": {}
+    "C:\\Repo\\IndustrialAutomation\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\IndustrialAutomationRepo\\Application\\Application.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Application\\Application.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\Application\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,17 +33,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj"
+              "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj"
               }
             }
           }
@@ -201,14 +201,14 @@
         }
       }
     },
-    "C:\\Repo\\IndustrialAutomationRepo\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj",
         "projectName": "IndustrialAutomation.Test",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\IndustrialAutomation.Test\\IndustrialAutomation.Test.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\IndustrialAutomation.Test\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\IndustrialAutomation.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -230,17 +230,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\IndustrialAutomationRepo\\Application\\Application.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Application\\Application.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Application\\Application.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Application\\Application.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj"
+              "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj"
               }
             }
           }
@@ -296,14 +296,14 @@
         }
       }
     },
-    "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\Persistence\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -325,11 +325,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Common\\Common.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Common\\Common.csproj"
               },
-              "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj": {
+    "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj",
+        "projectUniqueName": "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj",
         "projectName": "ServiceModel",
-        "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\ServiceModel.csproj",
+        "projectPath": "C:\\Repo\\IndustrialAutomation\\ServiceModel\\ServiceModel.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\IndustrialAutomationRepo\\ServiceModel\\obj\\",
+        "outputPath": "C:\\Repo\\IndustrialAutomation\\ServiceModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,8 +392,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repo\\IndustrialAutomationRepo\\Domain\\Domain.csproj"
+              "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repo\\IndustrialAutomation\\Domain\\Domain.csproj"
               }
             }
           }
