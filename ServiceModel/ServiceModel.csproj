@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="User\" />
-    <Folder Include="ObjectState\" />
   </ItemGroup>
 
 </Project>
