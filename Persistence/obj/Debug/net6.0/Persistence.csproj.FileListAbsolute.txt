@@ -1,0 +1,17 @@
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Common.dll
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Common.pdb
+C:\Repo\IndustrialAutomation\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Repo\IndustrialAutomation\Persistence\obj\Debug\net6.0\ref\Persistence.dll
