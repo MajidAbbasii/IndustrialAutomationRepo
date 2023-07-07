@@ -13,11 +13,4 @@
     <ProjectReference Include="..\ServiceModel\ServiceModel.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Base\" />
-    <Folder Include="ObjectState\" />
-    <Folder Include="User\" />
-    <Folder Include="UnitOfWork\" />
-  </ItemGroup>
-
 </Project>
