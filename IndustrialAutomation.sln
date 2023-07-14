@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{93F2F429-90BE-4C27-9046-1855F8ED9CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "src\WebApi\WebApi.csproj", "{93F2F429-90BE-4C27-9046-1855F8ED9CFF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AB399D0C-D38F-4414-B759-FFA8F9617307}"
 EndProject
@@ -15,25 +15,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E7A3A27B-5C45-4B3D-9E8E-B008BD533BC4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{CBD1C1F8-A9A1-45D6-A678-4FFBF692205A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commons", "Commons", "{CBD1C1F8-A9A1-45D6-A678-4FFBF692205A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{DC50CD12-CDBD-451C-94BE-587F2509E791}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{CF3223E1-6ECD-48E6-AEBB-72F8542C89E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceModel", "ServiceModel\ServiceModel.csproj", "{71FAC794-0134-45A0-9F9E-F59EFED4ABE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceModel", "src\ServiceModel\ServiceModel.csproj", "{71FAC794-0134-45A0-9F9E-F59EFED4ABE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7C48EF35-52F4-42CC-A81E-1ECE4D01AF4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{7C48EF35-52F4-42CC-A81E-1ECE4D01AF4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{3100FF95-8D9B-465F-AE91-5DC60A497C9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "src\Commons\Commons.csproj", "{3100FF95-8D9B-465F-AE91-5DC60A497C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{C3433D03-F23B-4453-8F1E-A078E982A050}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{C3433D03-F23B-4453-8F1E-A078E982A050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{F1A218AD-451E-40C2-8D66-9AA3932838C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "src\Persistence\Persistence.csproj", "{F1A218AD-451E-40C2-8D66-9AA3932838C2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{FDF6F844-178C-4E64-841B-56C36C34794C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAutomation.Test", "IndustrialAutomation.Test\IndustrialAutomation.Test.csproj", "{A599B4F1-6028-4428-95E8-5AD237809718}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialAutomation.Test", "test\IndustrialAutomation.Test\IndustrialAutomation.Test.csproj", "{A599B4F1-6028-4428-95E8-5AD237809718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
